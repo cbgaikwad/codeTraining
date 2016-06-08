@@ -3,3 +3,5 @@ Technologies:
         CSS(SASS)
         Durandal JS
         jQuery
+        JavaScript
+        HTML

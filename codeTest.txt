@@ -1,2 +1,4 @@
 This is test project.
-SASS - New pre-processor
+Technologies:
+        CSS(SASS)
+        Durandal JS

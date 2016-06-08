@@ -2,3 +2,4 @@ This is test project.
 Technologies:
         CSS(SASS)
         Durandal JS
+        jQuery
